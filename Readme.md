@@ -5,3 +5,5 @@
 Vi é muito estranho!
 
 Testando reset
+
+ABCDEFGHIJKLMNOPQRSTUVXWYZ
