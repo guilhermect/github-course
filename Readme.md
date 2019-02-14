@@ -2,7 +2,7 @@
 
 #Git Diff
 
-Vi é muito estranho!
+Vi é chave
 
 Testando reset
 
