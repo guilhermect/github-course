@@ -2,8 +2,6 @@
 
 #Git Diff
 
-Vi é chave
-
 Testando reset
 
 ABCDEFGHIJKLMNOPQRSTUVXWYZ
